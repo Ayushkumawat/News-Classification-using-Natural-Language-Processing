@@ -5,14 +5,14 @@ A Machine Learning model which classifies weather the news given is genuine news
 # Details of Dataset
 
 WE USED DATASETS -
-• fake.csv
-• true.csv
+• Fake.csv
+• True.csv
 
 COLUMNS : [Title, Text, Subject, Date]
 
 Number of ROWS -
-• fake.csv consists of '23481' rows in total.
-• true.csv consists of '21417' rows in total.
+• Fake.csv consists of '23481' rows in total.
+• True.csv consists of '21417' rows in total.
 
 KNOW YOUR DATASET -
 
