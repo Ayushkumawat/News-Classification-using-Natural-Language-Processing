@@ -2,6 +2,28 @@
 
 A Machine Learning model which classifies weather the news given is genuine news or false news by the use of NLP (Natural Language Processing
 
+# Details of Dataset
+
+WE USED DATASETS -
+• fake.csv
+• true.csv
+
+COLUMNS : [Title, Text, Subject, Date]
+
+Number of ROWS -
+• fake.csv consists of '23481' rows in total.
+• true.csv consists of '21417' rows in total.
+
+KNOW YOUR DATASET -
+
+Subjects Involved :
+• Political News
+• Left-news
+• Government News
+• US_News
+• Middle-east News
+• World News
+
 # Concepts Involved
 
 1.  SUPERVISED LEARNING 
